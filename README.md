@@ -1,2 +1,2 @@
 # calc-verilog
-FSM design and Verification of Calculator using Verilog 
+FSM Design and Verification of Calculator using Verilog 
