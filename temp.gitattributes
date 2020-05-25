@@ -1,0 +1,3 @@
+ *.v linguist-detectable=true
+ *.md linguist-detectable=false
+ 
