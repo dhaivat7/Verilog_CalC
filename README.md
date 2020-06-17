@@ -1,4 +1,4 @@
-# calc-verilog
+  calc-verilog
 FSM Design and Verification of Calculator using Verilog 
 #FSM design
 32 bit i/p and o/p,2 bit ctrl signal, Data-valid stall protocol, (+, -, *, /)
